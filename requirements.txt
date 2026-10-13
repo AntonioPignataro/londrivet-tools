@@ -1,0 +1,7 @@
+pandas
+openpyxl
+openai
+python-dotenv
+tqdm
+ddgs
+google-search-results

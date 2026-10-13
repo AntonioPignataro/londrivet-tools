@@ -1,0 +1,145 @@
+Descrição Ideal de Produto Veterinário
+
+Para produtos veterinários, a abordagem deve ser técnica, confiável e direta. Aqui está o guia revisado:
+
+
+1. Estrutura da Descrição Veterinária
+
+1.1 Título do Produto
+
+Máximo de 120 caracteres
+Inclua: nome do produto
+Exemplo: "Otoscópio Veterinário Digital com Câmera HD e Armazenamento de Imagens"
+
+1.2 Descrição Principal (Campos Essenciais)
+
+a) Identificação e Aplicação
+
+Nome comercial e técnico do produto (apenas se houver)
+Indicação principal (para qual espécie animal, condição ou procedimento) (apenas se houver)
+Breve contextualização profissional (apenas se tiver informações sobre)
+
+b) Especificações Técnicas
+
+Materiais, dimensões, capacidade ou performance (apenas se houver)
+Compatibilidades (software, modelos, sistemas) (apenas se houver)
+Certificações relevantes (apenas se houver)
+
+c) Características Funcionais
+
+O que o produto faz especificamente (apenas se souber)
+Desempenho ou eficiência (apenas se souber)
+Dados técnicos objetivos (apenas se souber)
+
+
+2. Exemplo 1: Equipamento Veterinário
+
+Produto: Otoscópio Veterinário Digital
+
+OTOSCÓPIO VETERINÁRIO DIGITAL COM CÂMERA
+
+Equipamento de diagnóstico para inspeção de conduto auditivo externo em animais de pequeno e médio porte.
+
+ESPECIFICAÇÕES TÉCNICAS:
+Ampliação: 6x até 30x
+Sensor: Câmera CMOS 2MP
+Resolução: 1920x1080 Full HD
+Iluminação: LED de alta intensidade, 6000K
+Interface: USB 2.0 / Conexão wireless
+Compatibilidade: Windows 7 ou superior, Mac OS X 10.6+
+Armazenamento: Captura de imagens e vídeos em alta resolução
+Material: Corpo em alumínio anodizado, pontas removíveis em acrílico médico
+
+CARACTERÍSTICAS FUNCIONAIS:
+Visualização em tempo real da membrana timpânica e canal auditivo
+Software incluído para documentação de casos
+Limpeza e manutenção simplificadas
+Ponteiras descartáveis e reutilizáveis disponíveis
+
+
+
+3. Exemplo 2: Dispositivo/Accessório Veterinário
+
+Produto: Colar Cervical Ajustável para Cães
+
+COLAR CERVICAL AJUSTÁVEL PARA CÃES
+
+Dispositivo de proteção pós-cirúrgica e durante período de convalescença, impedindo acesso do animal à região operada ou lesionada.
+
+ESPECIFICAÇÕES TÉCNICAS:
+Material: Plástico transparente de alta densidade
+Diâmetro interno: Ajustável de 15cm a 25cm
+Altura: 12cm
+Peso: 180g
+Tamanho recomendado: Cães de 5kg a 20kg
+
+CARACTERÍSTICAS FUNCIONAIS:
+Abertura lateral para fácil colocação e retirada
+Fecho por velcro de dupla face resistente
+Transparência permite visão do animal sem restrições
+Superfícies arredondadas evitam lesões adicionais
+Fácil higienização com álcool ou solução antisséptica
+
+
+
+4. Exemplo 3: Material/Consumível Reutilizável
+
+Produto: Mesa de Contenção Veterinária
+
+MESA DE CONTENÇÃO VETERINÁRIA ELÉTRICA
+
+Equipamento de contenção e posicionamento de pequenos animais para procedimentos clínicos, cirúrgicos e diagnósticos.
+
+ESPECIFICAÇÕES TÉCNICAS:
+Dimensões: 120cm x 60cm x altura ajustável (70cm a 110cm)
+Superfície: Aço inoxidável AISI 304
+Peso máximo suportado: 40kg
+Motor: Elétrico 220V, altura ajustável por controle remoto
+Estrutura: Alumínio anodizado
+Acessórios: Cintos de contenção e correntes laterais
+
+CARACTERÍSTICAS FUNCIONAIS:
+Altura ajustável para ergonomia do profissional
+Superfície antiderrapante com pequenas abas de contenção
+Drenagem integrada para limpeza
+Fácil acesso aos quatro lados do animal
+Compatível com sistemas de iluminação adicional
+
+
+5. Elementos Essenciais (Verificação)
+
+✅ Sempre inclua, se tiver informações para isso, e caso não tenha apenas ignore:
+
+Aplicação/indicação clara (apenas se souber)
+Especificações técnicas objetivas (apenas se souber)
+Materiais/composição (apenas se souber)
+Compatibilidades (se aplicável) (apenas se souber)
+Conformidades ou certificações existentes (apenas se souber)
+
+❌ Evite:
+
+Linguagem coloquial ou entusiasta
+Promessas de resultados clínicos
+Comparações diretas com concorrentes
+Afirmações não comprovadas
+Informações que exigem prescrição profissional (em remédios)
+
+
+6. Estrutura de Redação
+
+Parágrafo 1: Nome e aplicação (1-2 linhas)
+Seção de Especificações: Dados técnicos em formato claro (apenas se souber deles)
+Seção de Características: O que o produto oferece funcionalmente (apenas se tiver informações sobre)
+
+Comprimento ideal: 150 a 250 palavras (conciso e completo)
+
+
+7. SEO Técnico (Otimização para Buscas)
+
+Use terminologia técnica veterinária correta
+Inclua variações: "otoscópio", "otoscópio digital", "diagnóstico auditivo"
+Mencione espécies alvo ou aplicações específicas (apenas se souber)
+Evite repetição forçada de palavras-chave
+
+
+Resultado final: Descrição que transmite credibilidade profissional, fornece informações técnicas precisas e atrai profissionais veterinários que sabem exatamente o que buscam.

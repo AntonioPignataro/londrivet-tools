@@ -1,0 +1,22 @@
+# Segredos
+keys.env
+.env
+.env.*
+!*.example
+
+# Dados reais (planilhas de entrada/saída) — só o exemplo fictício vai para o repositório
+*.xlsx
+*.xls
+*.csv
+!sample-data/*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editores / sistema
+.idea/
+.vscode/
+.DS_Store
